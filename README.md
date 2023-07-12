@@ -1,2 +1,2 @@
 # Google_data_analysis_The_Power_of_Statistics
-This contains the code used in the "Power of statistics" course from Google
+This repo contains the assignments code used in "The Power of Statistics" course from Google Advanced Data Analytics Professional Certificate
